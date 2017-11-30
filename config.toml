@@ -39,10 +39,10 @@ enableEmoji = true
   job = "Data Scientist & Developer"
   location = "Brooklyn, NY"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "byrandai@gmail.com"
+  # gravatarEmail = "byrandai@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "https://avatars2.githubusercontent.com/u/13204726?s=400&u=aa3e3984c10e37c66e7f1ff15bc6e6b209fb3456&v=4"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -80,6 +80,12 @@ enableEmoji = true
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/hibyrandai"
+[[menu.links]]
+  weight = 1
+  identifier = "linkedin"
+  name = "LinkedIn"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
+  url = "https://www.linkedin.com/in/byrandai/"
 
 [[menu.misc]]
   weight = 1

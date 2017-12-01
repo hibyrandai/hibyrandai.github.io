@@ -3,7 +3,7 @@ title: "So What's Next?"
 author: "Byran Dai"
 date: 2017-11-29
 categories: ["Introduction"]
-tags: [""]
+tags: ["startup"]
 summary: "Like clockwork, this was the question I got asked when I'd tell someone I quit my job."
 ---
 

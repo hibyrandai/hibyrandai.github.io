@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/./2017/11/so-whats-next/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/./2015/07/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -68,13 +73,19 @@
   </url>
   
   <url>
+    <loc>/./tags/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/./archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/./</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -156,6 +167,12 @@
   </url>
   
   <url>
+    <loc>/./categories/introduction/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/./tags/japanese/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -181,7 +198,7 @@
   
   <url>
     <loc>/./post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -229,7 +246,7 @@
   
   <url>
     <loc>/./tags/</loc>
-    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -9,8 +9,6 @@ thumbnailImage: /images/genie.png
 summary: "As part of my first foray into strengthening my tech, I decided to create a simple service for Amazon Alexa that would choose between several options given by a user."
 ---
 
-<INSERT IMAGE OF THE GENIE HERE>
-
 #A Convenient Motivation
 
 I was introduced to Amazon Web Services (AWS) during my time at Quartet, and I found myself wanting to learn how to make the most out of the platform. At the same time, I had received four Amazon Echo Dots as a result of a promotional code mistake by Amazon that resulted in the Dot being sold for free.
@@ -37,4 +35,4 @@ I built the skill using NodeJS due to both the extensive documentation from Amaz
 
 #Next Steps
 
-In my next post, I will do a walkthrough of the code, and go into detail on the steps I took to get Decision Genie to its current state. The GitHub repo can be found here if you'd like to explore further: <INSERT URL OF GITHUB>
+In my next post, I will do a walkthrough of the code, and go into detail on the steps I took to get Decision Genie to its current state. The GitHub repo can be found here if you'd like to explore further: https://github.com/hibyrandai/Decision_Genie/blob/master/index.js

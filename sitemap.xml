@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/./2017/11/the-decision-genie-alexa-skill-mini-project---introduction-and-setup/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/./2017/11/so-whats-next/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/./tags/alexa/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,13 +24,25 @@
   </url>
   
   <url>
+    <loc>/./tags/aws/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/./</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/./categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/./tags/decision-genie/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,8 +53,20 @@
   </url>
   
   <url>
+    <loc>/./categories/mini-project/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/./tags/nodejs/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/./post/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,7 +78,7 @@
   
   <url>
     <loc>/./tags/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,40 @@
+---
+title: "The Decision Genie Alexa Skill (Mini-Project) - Introduction and Setup"
+author: "Byran Dai"
+date: 2017-11-30
+categories: ["mini-project"]
+tags: ["alexa","nodeJS","AWS","decision genie"]
+thumbnailImagePosition: left
+thumbnailImage: /images/genie.png
+summary: "As part of my first foray into strengthening my tech, I decided to create a simple service for Amazon Alexa that would choose between several options given by a user."
+---
+
+<INSERT IMAGE OF THE GENIE HERE>
+
+#A Convenient Motivation
+
+I was introduced to Amazon Web Services (AWS) during my time at Quartet, and I found myself wanting to learn how to make the most out of the platform. At the same time, I had received four Amazon Echo Dots as a result of a promotional code mistake by Amazon that resulted in the Dot being sold for free.
+
+What better way to leverage the two than a good old-fashioned Alexa Skill?
+
+#What is an Alexa Skill?
+
+For context, an Alexa Skill is an application built using Alexa, Amazon's voice-recognition platform. Alexa serves as the translation layer taking verbal cues from the user and formatting it into a JSON object containing information like the content of the cue, the intent (i.e. what type of cue?), and other session data. The application then provides logic to generate a similar JSON response that Alexa then converts into an audio reply to the user. 
+
+#Functionality of the Skill
+
+For the sake of exploration, I selected a simple goal for the Alexa Skill: have the user ask a question with several potential choices, and have the skill select among the choices and reply back to the user. 
+
+For example, a user might ask "Should I order pizza or sushi or burritos for dinner tonight?" The skill would need to recognize a relevant keyword to split the string into separate selections, and then randomly select a response to return back to the user. Prior to that, it would need to trim any extraneous words in the selected response so that it is intelligible.
+
+Finally, in order to improve the performance of the skill, the questions and responses provided will need to be stored in an anonymized database. Alexa already provides a hashed user ID for each user's Alexa device, satisfying the anonymization requirement.
+
+#Tools & Services Used
+
+There are a multitude of approaches that developers take to create and host an Alexa Skill. However, all developers begin by interacting with the Alexa Developer dashboard, which is where intents and invocation words (i.e. phrases used to start the skill) are defined. In an effort to build my knowledge of the AWS environment, I decided to host my skill as a Lambda function connected to Alexa Skills Kit (ASK). I also opted to store user responses in Amazon DynamoDB, which has the benefit of dedicated support in the Alexa SDK making setup significantly quicker.
+
+I built the skill using NodeJS due to both the extensive documentation from Amazon in the language as well as my personal interest in learning it. Debugging and testing was conducted through echosim.io and the Alexa Developer Test interface; in a future post, I'll detail how the Mocha testing framework can automate much of this process.
+
+#Next Steps
+
+In my next post, I will do a walkthrough of the code, and go into detail on the steps I took to get Decision Genie to its current state. The GitHub repo can be found here if you'd like to explore further: <INSERT URL OF GITHUB>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Byran Dai - Developer Blog</title>
-    <link>/./post/</link>
-    <description>Recent content in Posts on Byran Dai - Developer Blog</description>
+    <title>Aws on Byran Dai - Developer Blog</title>
+    <link>/./tags/aws/</link>
+    <description>Recent content in Aws on Byran Dai - Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/./post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/./tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/./2017/11/the-decision-genie-alexa-skill-mini-project---introduction-and-setup/</guid>
       <description>A Convenient MotivationI was introduced to Amazon Web Services (AWS) during my time at Quartet, and I found myself wanting to learn how to make the most out of the platform. At the same time, I had received four Amazon Echo Dots as a result of a promotional code mistake by Amazon that resulted in the Dot being sold for free.
 What better way to leverage the two than a good old-fashioned Alexa Skill?</description>
-    </item>
-    
-    <item>
-      <title>So What&#39;s Next?</title>
-      <link>/./2017/11/so-whats-next/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/./2017/11/so-whats-next/</guid>
-      <description>“So what are you doing next?”
-Like clockwork, this was the question I got asked when I’d tell someone I quit my job. A week and a half later, I’m still figuring out the right answer, the right way to phrase “I just want some protected time to build an idea.”
-I left my Data Science position at Quartet Health the weekend before Thanksgiving. I felt the time was right to dive headfirst into a few projects that I had been bouncing around for a while, while also focusing heavily on strengthening my technical and programming skillsets.</description>
     </item>
     
   </channel>

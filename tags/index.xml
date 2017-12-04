@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Byran Dai - Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/./tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alexa</title>
+      <link>/./tags/alexa/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/./tags/alexa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>/./tags/aws/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/./tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Genie</title>
+      <link>/./tags/decision-genie/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/./tags/decision-genie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodejs</title>
+      <link>/./tags/nodejs/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/./tags/nodejs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Startup</title>

@@ -1,0 +1,24 @@
+---
+title: "Starting Daivergent Inc."
+author: "Byran Dai"
+date: 2017-12-17
+categories: ["daivergent"]
+tags: ["daivergent","startup"]
+summary: "Last week, I started a company called Daivergent."
+---
+
+One week ago, I submitted paperwork to incorporate a company called [Daivergent](http://www.daivergent.com). If you remember from the first post of my blog, I was deciding between two projects.
+
+1. develop this new data collection service to yadda yadda yadda...
+
+2. build the next generation of group homes for adults with intellectual and developmental disabilities (IDD), addressing the signficant caregiver stress, growing prevalence of children with IDD transitioning into adulthood, and untapped potential of these adults to be contributing members of their communities.
+
+Since then I've pivoted. The excitement I feel talking about the second project is 100,000 times higher than the first. A colleague of mine at Quartet who started a company on EMR integrations once told me that nobody what, your success is going to be determined by how passionate you are about your idea. I've taken that to heart.
+
+Housing is expensive, there's no way around that. However, housing is just one piece of the puzzle. An adult with autism is not only more likely to rely on someone else for their housing (by one account, 71% of people with intellectual/development disability live with a caregiver), but they are also substantially more likely to be unemployed.
+
+One study estimated that [up to 70% of adults are unemployed](https://macaulay.cuny.edu/eportfolios/autismandsupportedemployment/2016/05/19/outlook-for-high-functioning-individuals-with-asd/), an astonishing number when considering that 2/3 of adults with autism have an [average or above average IQ](http://usa.specialisterne.com/about-specialisterne/autism-advantage). That is why I've decided to re-orient by project in a parallel direction.
+
+If we were able to create jobs that were tailored to the ASD community, it would give incredible freedom and independence to these adults. Earning a living wage is the foundation for living on one's own, without relying on the assistance of someone else. It's not an exaggeration to say that a job is within reach for everyone with ASD, but our corporate world has not moved as quickly towards embracing this population as we need it to.
+
+This is the beginning step towards something hopefully more meaningful and substantial. I'll continue to update my progress here, and I welcome anyone interested in contributing to reach out to me.

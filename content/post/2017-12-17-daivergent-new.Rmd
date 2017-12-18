@@ -1,5 +1,5 @@
 ---
-title: "Starting Daivergent Inc."
+title: "Starting Daivergent Inc"
 author: "Byran Dai"
 date: 2017-12-17
 categories: ["daivergent"]

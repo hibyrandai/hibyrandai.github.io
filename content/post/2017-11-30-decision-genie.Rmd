@@ -35,4 +35,4 @@ I built the skill using NodeJS due to both the extensive documentation from Amaz
 
 #Next Steps
 
-In my next post, I will do a walkthrough of the code, and go into detail on the steps I took to get Decision Genie to its current state. The GitHub repo can be found [here](https://github.com/hibyrandai/Decision_Genie/blob/master/index.js) if you'd like to explore further.
+In my next post, I will do a walkthrough of the code, and go into detail on the steps I took to get Decision Genie to its current state. The GitHub repo can be found [here](https://github.com/hibyrandai/Decision_Genie/blob/master/index.js) if you'd like to explore further. You can find details of the skill on the Amazon Store [here](https://www.amazon.com/Dai-Applications-Insights-Decision-Genie/dp/B075GGXPKH).

@@ -6,10 +6,20 @@
     <description>Recent content on Byran Dai - Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The critical minutiae (or the administrative slog of setting up a new company), Part 1</title>
+      <link>/./2018/01/the-critical-minutiae-or-the-administrative-slog-of-setting-up-a-new-company-part-1/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/./2018/01/the-critical-minutiae-or-the-administrative-slog-of-setting-up-a-new-company-part-1/</guid>
+      <description>This is the part of the story that doesn’t get shared often. You don’t usually hear the courageous startup founder extol about how they successfully secured low rates on state unemployment insurance. There aren’t a lot of feel-good stories about successfully filing Form 2553 with the IRS electing your new company as an S-Corp.
+This is intended to be a short and sweet post of what I’ve had to do so far to set up this company, roughly in chronological order.</description>
+    </item>
     
     <item>
       <title>Starting Daivergent Inc</title>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daivergent on Byran Dai - Developer Blog</title>
-    <link>/./categories/daivergent/</link>
-    <description>Recent content in Daivergent on Byran Dai - Developer Blog</description>
+    <title>Incorporation on Byran Dai - Developer Blog</title>
+    <link>/./tags/incorporation/</link>
+    <description>Recent content in Incorporation on Byran Dai - Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/./categories/daivergent/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/./tags/incorporation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/./2018/01/the-critical-minutiae-or-the-administrative-slog-of-setting-up-a-new-company-part-1/</guid>
       <description>This is the part of the story that doesn’t get shared often. You don’t usually hear the courageous startup founder extol about how they successfully secured low rates on state unemployment insurance. There aren’t a lot of feel-good stories about successfully filing Form 2553 with the IRS electing your new company as an S-Corp.
 This is intended to be a short and sweet post of what I’ve had to do so far to set up this company, roughly in chronological order.</description>
-    </item>
-    
-    <item>
-      <title>Starting Daivergent Inc</title>
-      <link>/./2017/12/starting-daivergent-inc/</link>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/./2017/12/starting-daivergent-inc/</guid>
-      <description>One week ago, I submitted paperwork to incorporate a company called Daivergent. If you remember from the first post of my blog, I was deciding between two projects.
-develop this new data collection service to yadda yadda yadda…
-build the next generation of group homes for adults with intellectual and developmental disabilities (IDD), addressing the signficant caregiver stress, growing prevalence of children with IDD transitioning into adulthood, and untapped potential of these adults to be contributing members of their communities.</description>
     </item>
     
   </channel>

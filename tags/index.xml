@@ -68,7 +68,7 @@
     <item>
       <title>Marketing</title>
       <link>/./tags/marketing/</link>
-      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/./tags/marketing/</guid>
       <description></description>
@@ -98,6 +98,15 @@
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/./tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>/./tags/sales/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/./tags/sales/</guid>
       <description></description>
     </item>
     

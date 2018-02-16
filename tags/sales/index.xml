@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marketing on Byran Dai - Developer Blog</title>
-    <link>/./tags/marketing/</link>
-    <description>Recent content in Marketing on Byran Dai - Developer Blog</description>
+    <title>Sales on Byran Dai - Developer Blog</title>
+    <link>/./tags/sales/</link>
+    <description>Recent content in Sales on Byran Dai - Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/./tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/./tags/sales/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/./2018/02/refocusing-on-updates/</guid>
       <description>I’m getting back into writing again, and this time sticking with it. Daily updates, short blurbs, long-form pieces on particularly pensive days, you name it.
 Our team continues to grow as more data specialists are sent over from our community agencies and ACCES-VR partnerships. It’s been a wonderful experience working with these men and women, and in particular it’s an opportunity to create a new corporate model for working with this population that provides professional development opportunities and strong productivity.</description>
-    </item>
-    
-    <item>
-      <title>Selling the idea</title>
-      <link>/./2018/01/selling-the-idea/</link>
-      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/./2018/01/selling-the-idea/</guid>
-      <description>Quick update on my end, only because so much of the work I’ve been doing has been going out and talking, listening, meeting, emailing.
-If there was one skill that I’ve developed over this past month, it’s been how to make a cleaner and more succinct pitch about Daivergent to anyone who will listen. I buy strongly into the six second elevator pitch from a blog post I read from Rajesh Anandan, one of the trailblazing industry leaders in this space.</description>
     </item>
     
   </channel>
